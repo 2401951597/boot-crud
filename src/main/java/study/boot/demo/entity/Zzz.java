@@ -8,5 +8,6 @@ public class Zzz {
         System.out.println("hello,world!");
         System.out.println("hello,Zzz!");
         System.out.println("hello,Ccc!");
+        System.out.println("hello,Zzz!");
     }
 }
