@@ -5,5 +5,6 @@ public class Zzz {
 
         System.out.println("hello,git!");
         System.out.println("hello,Xinf!");
+        System.out.println("hello,world!");
     }
 }
